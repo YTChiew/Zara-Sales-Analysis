@@ -3,6 +3,10 @@
 ## Project Overview
 This project is to analyze Zara sales dataset to identify trends, sales performance, and insights for decision making and marketing strategy.
 
+You can view the full **interactive Jupyter Notebook in Google Colab** here:  
+[View Notebook in Colab](https://colab.research.google.com/github/username/zara-sales-analysis/blob/main/notebooks/zara_sales_analysis.ipynb)
+
+
 ## Dataset
 - Source: Kaggle Zara sales dataset
 - Features: Product ID, Product Category, 
@@ -28,4 +32,4 @@ This project is to analyze Zara sales dataset to identify trends, sales performa
 - data/:
 - notebooks/: Jupyter notebooks
 - visuals/:
-- 
+
