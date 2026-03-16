@@ -4,7 +4,7 @@
 This project is to analyze Zara sales dataset to identify trends, sales performance, and insights for decision making and marketing strategy.
 
 You can view the full **interactive Jupyter Notebook in Google Colab** here:  
-[View Notebook in Colab](https://colab.research.google.com/github/username/zara-sales-analysis/blob/main/notebooks/zara_sales_analysis.ipynb)
+[View Notebook in Colab](https://colab.research.google.com/github/YTChiew/Zara-Sales-Analysis/blob/main/zara_sales_analysis.ipynb)
 
 
 ## Dataset
