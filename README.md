@@ -26,6 +26,7 @@ You can view the full **Jupyter Notebook** here:
 -
 
 ## Visualizations
+![Test](images/price.png)
 
 ## Repository Structure
 - data/:
