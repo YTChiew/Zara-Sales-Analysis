@@ -3,38 +3,26 @@
 ## Project Overview
 This project is to analyze Zara sales dataset to identify trends, sales performance, and insights for decision making and marketing strategy.
 
-## Project Overview
-This project analyzes Zara sales data to uncover insights about:
-- Top-selling products
-- Monthly revenue trends
-- Sales performance by store location
-
 You can view the full **Jupyter Notebook** here:  
 [View Notebook in Colab](https://colab.research.google.com/github/YTChiew/Zara-Sales-Analysis/blob/main/zara_sales_analysis.ipynb)
 
 ## Dataset
 - Source: Kaggle Zara sales dataset
-- Features: Product ID, Product , Product Category, price, 
-
-<!-- product ID, product name, product category, price, sales volume, sales date, and store location. -->
-
+- Features: Product ID, Product Position, price, Sales Volumn, Promotion, Seasonal, and section.
+  
 ## Tools Used
-- Python (Pandas, NumPy, )
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
 
 ## Analysis Steps
-1. Data 
+1. Data preprocessing
 2. Exploratory Data Analysis (EDA)
-3. Revenue
-4. Sales by
+3. Revenue & product trend analysis
 5. Visualizations & Insights
 
-
 ## Key Insights
--
+- Top 10 selling products
 
 ## Visualizations
 ![Price](images/price.png)
-![Top Revenue] (images/top_revenue.png)
-
-
+![Top Revenue](images/top_revenue.png)
