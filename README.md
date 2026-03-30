@@ -8,7 +8,7 @@ You can view the full **Jupyter Notebook** here:
 
 ## Dataset
 - Source: Kaggle Zara sales dataset
-- Features: Product ID, Product Position, price, Sales Volumn, Promotion, Seasonal, and section.
+- Features: Product ID, Product Position, price, Sales Volume, Promotion, Seasonal, and section.
   
 ## Tools Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
