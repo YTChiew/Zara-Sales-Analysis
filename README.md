@@ -35,6 +35,6 @@ You can view the full **Jupyter Notebook** here:
 
 ## Visualizations
 ![Price](images/price.png)
-![] (images/)
-- visuals/:
+![Top Revenue] (images/top_revenue.png)
+
 
