@@ -21,7 +21,7 @@ You can view the full **Jupyter Notebook** here:
 5. Visualizations & Insights
 
 ## Key Insights
-- Top 10 selling products
+- Top 10 selling products by Revenue
 
 ## Visualizations
 ![Price](images/price.png)
