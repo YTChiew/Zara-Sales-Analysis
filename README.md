@@ -4,8 +4,8 @@
 This project is to analyze Zara sales dataset to identify trends, sales performance, and insights for decision making and marketing strategy.
 
 You can view the full **Jupyter Notebook** and **Power Bi** here:  
-[View Notebook in Colab](https://colab.research.google.com/github/YTChiew/Zara-Sales-Analysis/blob/main/zara_sales_analysis.ipynb)
-[View PowerBI]()
+- [View Notebook in Colab](https://colab.research.google.com/github/YTChiew/Zara-Sales-Analysis/blob/main/zara_sales_analysis.ipynb)
+- [View PowerBI]()
 
 ## Dataset
 - Source: Kaggle Zara sales dataset
