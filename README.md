@@ -5,7 +5,7 @@ This project is to analyze Zara sales dataset to identify trends, sales performa
 
 You can view the full project here:  
 - [View Notebook in Colab](https://colab.research.google.com/github/YTChiew/Zara-Sales-Analysis/blob/main/zara_sales_analysis.ipynb)
-- [Download Power BI Dashboard (.p)](https://github.com/YTChiew/Zara-Sales-Analysis/blob/main/Zara%20Analysis.pbix)
+- [Download Power BI Dashboard (.pbix)](https://github.com/YTChiew/Zara-Sales-Analysis/blob/main/Zara%20Analysis.pbix)
 
 ---
 
@@ -59,8 +59,22 @@ You can view the full project here:
 - Products that are places at aisle generate higher sales volume compared to those positioned at front or end-cap, highlighting the influence of in-store product placement
   
 ---
+## Dashboard Preview
 
-## Visualizations
+![Power BI Dashboard](images/zara_analysis_powerbi.png)
+
+---
+
+## Key Visualizations (Python)
+
+### Price Distribution
 ![Price](images/price.png)
+
+- Shows distribution of product pricing across categories  
+- Helps identify pricing patterns and potential outliers  
+
+### Top Revenue Products
 ![Top Revenue](images/top_revenue.png)
-![Power BI report](images/zara_analysis_powerbi.png)
+
+- Highlights highest revenue-generating products  
+- Indicates key drivers of overall sales performance  
