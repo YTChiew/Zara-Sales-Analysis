@@ -3,8 +3,9 @@
 ## Project Overview
 This project is to analyze Zara sales dataset to identify trends, sales performance, and insights for decision making and marketing strategy.
 
-You can view the full **Jupyter Notebook** here:  
+You can view the full **Jupyter Notebook** and **Power Bi** here:  
 [View Notebook in Colab](https://colab.research.google.com/github/YTChiew/Zara-Sales-Analysis/blob/main/zara_sales_analysis.ipynb)
+[View PowerBI]()
 
 ## Dataset
 - Source: Kaggle Zara sales dataset
@@ -13,6 +14,7 @@ You can view the full **Jupyter Notebook** here:
 ## Tools Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
+- Power BI
 
 ## Analysis Steps
 1. Data preprocessing
@@ -26,3 +28,4 @@ You can view the full **Jupyter Notebook** here:
 ## Visualizations
 ![Price](images/price.png)
 ![Top Revenue](images/top_revenue.png)
+![Power BI report](images/zara_analysis_powerbi.png)
