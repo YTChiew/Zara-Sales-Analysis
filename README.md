@@ -38,7 +38,7 @@ You can view the full project here:
 - Interactive dashboard for analyzing sales performance
 - Visualizations for revenue trends, product performance, and sales distribution
 
-### Data Transformation (Pwer Query/ DAX)
+### Data Transformation (Power Query/ DAX)
 - Created calculated columns using conditional logic (IF ELSE statements) to categozire data
 - Derived revenue column from sales volume and price
 - Performed basic data cleaning for analysis 
